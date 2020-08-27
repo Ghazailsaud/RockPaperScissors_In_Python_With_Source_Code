@@ -1,0 +1,6 @@
+python code project 
+for a rock paper scissors 
+it's the traditional game
+you should try it out 
+you only should have a python compile on your laptop
+and have fun explore it
